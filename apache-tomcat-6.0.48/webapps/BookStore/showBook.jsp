@@ -1,0 +1,49 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@page import="java.sql.*"%>
+<%@page import="java.util.*"%>
+
+
+<html>
+<head>
+</head>
+<body>
+<div style="position:absolute; width:100%; height:100%; z-index:-1">
+    <img src="images/11.jpg" height="100%" width="100%">
+</div>
+ <br>
+	 <table width="90%"  border="1" cellpadding="1" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#CCCCCC">
+	<%
+	List list2=(List)request.getAttribute("peso");
+	%>
+         		 <tr>
+			 <th align="left">序号</th>
+			 <th align="right">书籍编号</th>
+			 <th align="right">书籍名称 </th>
+			 <th align="right">出版社</th>
+			 <th align="right">作者 </th>
+			 <th align="right">价格 </th>
+             <th align="right">库存数量 </th>
+
+		 </tr>
+	
+	 <%
+		Map<String,String> map;
+	 	for(int i=0;i<list2.size();i++){
+	 		map=(Map)list2.get(i);			
+	 %>
+
+	 <tr>
+	 	<td align="left"><%=map.get("id")%></td>
+	 	<td align="right"><%=map.get("ISBN")%></td>
+	 	<td align="right"><%=map.get("name")%></td>	
+        <td align="right"><%=map.get("press")%></td>	
+        <td align="right"><%=map.get("Author")%></td>	 
+        <td align="right"><%=map.get("price")%></td>  
+        <td align="right"><%=map.get("num")%></td>  
+        
+	<%}%>
+      </table>
+      <a href="Main.jsp">返回首页</a>
+</body>
+</html>
+		

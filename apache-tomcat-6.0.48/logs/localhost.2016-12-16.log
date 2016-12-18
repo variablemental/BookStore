@@ -1,0 +1,470 @@
+十二月 16, 2016 7:18:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 7:18:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 7:23:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 7:23:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 7:23:43 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 7:23:43 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 7:24:26 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 7:24:26 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 7:26:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 7:26:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 7:27:47 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 7:27:47 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 7:34:49 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 7:34:49 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 7:35:29 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 7:35:29 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 7:50:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 7:50:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 7:50:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 7:50:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 7:53:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 7:53:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 7:59:50 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 7:59:50 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:00:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:00:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:00:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:00:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:01:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:01:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:05:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:05:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:05:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:05:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:05:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:05:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:08:46 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:08:46 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:09:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:09:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:10:51 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:10:51 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:11:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:11:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:12:29 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:12:29 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:12:50 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:12:50 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:15:12 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:15:12 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:15:26 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:15:26 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:16:04 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.checkMember(MemberAction.java:79)
+	at MemberAction.execute(MemberAction.java:36)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 8:17:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:17:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:17:11 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:17:11 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:17:31 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.checkMember(MemberAction.java:79)
+	at MemberAction.execute(MemberAction.java:36)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 8:20:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:20:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:21:05 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:21:05 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:35:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:35:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 8:36:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 8:36:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 8:48:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 8:48:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 9:18:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 9:18:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 9:21:48 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 9:21:48 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 9:42:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 9:42:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 9:44:35 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:44:40 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:44:45 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:45:32 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:47:03 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:49:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 9:49:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 9:50:16 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 9:50:16 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 9:50:26 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:34)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:51:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 9:51:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 9:51:54 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 9:51:54 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 9:52:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 9:52:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 9:57:35 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 9:57:35 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 10:04:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 10:04:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十二月 16, 2016 10:59:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十二月 16, 2016 10:59:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十二月 16, 2016 11:08:14 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NumberFormatException: For input string: "9787506365437"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at OrderFormAction.insertOrder(OrderFormAction.java:68)
+	at OrderFormAction.execute(OrderFormAction.java:40)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 11:08:19 上午 org.apache.catalina.core.StandardWrapperValve invoke
+严重: Servlet.service() for servlet action threw exception
+java.lang.NumberFormatException: For input string: "9787506365437"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at OrderFormAction.insertOrder(OrderFormAction.java:68)
+	at OrderFormAction.execute(OrderFormAction.java:40)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 11:36:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十二月 16, 2016 11:36:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()

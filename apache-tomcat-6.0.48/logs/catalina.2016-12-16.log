@@ -1,0 +1,1874 @@
+十二月 16, 2016 7:18:10 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 7:18:10 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 7:18:11 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 7:18:11 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:18:11 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:18:11 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1492 ms
+十二月 16, 2016 7:18:11 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 7:18:11 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 7:18:11 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 7:18:12 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 7:18:12 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 7:18:13 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 7:18:13 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 7:18:13 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 7:18:13 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 7:18:14 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:18:14 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:18:14 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2526 ms
+十二月 16, 2016 7:18:27 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 7:18:27 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 7:23:37 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:23:37 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:23:38 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 7:23:38 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:23:38 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:23:40 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 7:23:40 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 7:23:41 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 7:23:41 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:23:41 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:23:41 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1566 ms
+十二月 16, 2016 7:23:41 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 7:23:41 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 7:23:41 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 7:23:42 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 7:23:42 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 7:23:42 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 7:23:43 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 7:23:43 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 7:23:43 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 7:23:43 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:23:43 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:23:43 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2439 ms
+十二月 16, 2016 7:23:49 上午 org.apache.catalina.startup.Catalina stopServer
+严重: Catalina.stop: 
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:422)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:338)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:416)
+
+十二月 16, 2016 7:24:23 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 7:24:23 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 7:24:24 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 7:24:24 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:24:24 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:24:24 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1500 ms
+十二月 16, 2016 7:24:24 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 7:24:24 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 7:24:24 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 7:24:25 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 7:24:25 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 7:24:26 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 7:24:26 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 7:24:26 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 7:24:26 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 7:24:27 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:24:27 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:24:27 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2478 ms
+十二月 16, 2016 7:24:46 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 7:24:46 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 7:26:18 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:26:18 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:26:19 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 7:26:19 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:26:19 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:27:41 上午 org.apache.catalina.startup.Catalina stopServer
+严重: Catalina.stop: 
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:422)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:338)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:416)
+
+十二月 16, 2016 7:27:43 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 7:27:43 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 7:27:44 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 7:27:45 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:27:45 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:27:45 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1492 ms
+十二月 16, 2016 7:27:45 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 7:27:45 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 7:27:45 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 7:27:45 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 7:27:46 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 7:27:46 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 7:27:46 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 7:27:47 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 7:27:47 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 7:27:47 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:27:47 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:27:47 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2313 ms
+十二月 16, 2016 7:27:54 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 7:27:55 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 7:28:40 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookManagementAction
+十二月 16, 2016 7:34:48 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:34:48 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:34:49 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 7:34:49 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:34:49 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:35:25 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 7:35:25 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 7:35:26 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 7:35:27 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:35:27 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:35:27 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1514 ms
+十二月 16, 2016 7:35:27 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 7:35:27 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 7:35:27 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 7:35:27 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 7:35:28 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 7:35:28 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 7:35:28 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 7:35:28 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 7:35:29 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 7:35:29 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:35:29 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:35:29 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2454 ms
+十二月 16, 2016 7:35:56 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 7:35:56 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookManagementAction
+十二月 16, 2016 7:50:32 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:50:32 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:50:33 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 7:50:33 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:50:33 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:50:42 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 7:50:42 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 7:50:43 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 7:50:43 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:50:43 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:50:43 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1774 ms
+十二月 16, 2016 7:50:43 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 7:50:43 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 7:50:43 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 7:50:44 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 7:50:44 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 7:50:45 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 7:50:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 7:50:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 7:50:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 7:50:46 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:50:46 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:50:46 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2385 ms
+十二月 16, 2016 7:51:13 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 7:51:13 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 7:53:15 上午 org.apache.catalina.startup.Catalina stopServer
+严重: Catalina.stop: 
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:422)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:338)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:416)
+
+十二月 16, 2016 7:53:17 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 7:53:17 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 7:53:18 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 7:53:18 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:53:18 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:53:18 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1532 ms
+十二月 16, 2016 7:53:18 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 7:53:18 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 7:53:18 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 7:53:19 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 7:53:19 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 7:53:19 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 7:53:20 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 7:53:20 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 7:53:20 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 7:53:20 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:53:20 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:53:20 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2421 ms
+十二月 16, 2016 7:53:34 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 7:53:34 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 7:59:49 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:59:49 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 7:59:50 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 7:59:50 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 7:59:50 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:00:05 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:00:05 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:00:05 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:00:06 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:00:06 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:00:06 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1516 ms
+十二月 16, 2016 8:00:06 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:00:06 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:00:06 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:00:06 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:00:07 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:00:07 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:00:07 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:00:08 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:00:08 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:00:08 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:00:08 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:00:08 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2272 ms
+十二月 16, 2016 8:00:12 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:00:12 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:00:13 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:00:13 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:00:13 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:01:04 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:01:04 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:01:05 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:01:05 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:01:05 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:01:05 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1564 ms
+十二月 16, 2016 8:01:05 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:01:05 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:01:05 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:01:06 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:01:06 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:01:07 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:01:07 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:01:07 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:01:07 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:01:08 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:01:08 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:01:08 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2385 ms
+十二月 16, 2016 8:01:13 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:01:13 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:02:35 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookManagementAction
+十二月 16, 2016 8:05:36 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:05:36 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:05:37 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:05:37 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:05:38 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:05:38 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:05:38 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:05:39 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:05:40 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:05:40 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:05:40 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1581 ms
+十二月 16, 2016 8:05:40 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:05:40 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:05:40 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:05:40 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:05:41 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:05:41 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:05:41 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:05:41 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:05:42 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:05:42 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:05:42 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:05:42 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2593 ms
+十二月 16, 2016 8:05:45 上午 org.apache.catalina.startup.Catalina stopServer
+严重: Catalina.stop: 
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:422)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:338)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:416)
+
+十二月 16, 2016 8:05:51 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:05:51 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:05:52 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:05:52 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:05:52 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:05:52 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1496 ms
+十二月 16, 2016 8:05:52 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:05:52 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:05:52 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:05:53 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:05:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:05:54 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:05:54 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:05:54 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:05:55 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:05:55 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:05:55 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:05:55 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2540 ms
+十二月 16, 2016 8:06:13 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:06:13 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:08:45 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:08:45 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:08:46 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:08:47 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:08:47 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:09:03 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:09:03 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:09:03 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:09:04 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:09:04 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:09:04 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1553 ms
+十二月 16, 2016 8:09:04 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:09:04 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:09:04 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:09:05 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:09:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:09:05 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:09:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:09:06 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:09:06 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:09:06 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:09:06 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:09:06 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2393 ms
+十二月 16, 2016 8:09:16 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:09:16 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:10:50 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:10:50 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:10:51 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:10:51 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:10:51 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:11:15 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:11:15 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:11:16 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:11:16 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:11:16 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:11:16 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1520 ms
+十二月 16, 2016 8:11:16 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:11:16 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:11:16 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:11:17 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:11:17 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:11:18 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:11:18 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:11:18 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:11:19 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:11:19 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:11:19 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:11:19 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2431 ms
+十二月 16, 2016 8:11:28 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:11:28 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:12:28 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:12:28 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:12:29 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:12:29 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:12:29 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:12:47 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:12:47 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:12:48 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:12:48 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:12:48 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:12:48 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1657 ms
+十二月 16, 2016 8:12:48 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:12:48 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:12:48 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:12:49 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:12:49 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:12:50 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:12:50 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:12:50 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:12:50 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:12:51 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:12:51 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:12:51 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2394 ms
+十二月 16, 2016 8:12:58 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:12:58 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:15:11 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:15:11 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:15:12 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:15:12 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:15:12 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:15:23 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:15:23 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:15:24 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:15:24 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:15:24 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:15:24 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1553 ms
+十二月 16, 2016 8:15:24 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:15:24 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:15:24 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:15:25 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:15:25 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:15:26 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:15:26 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:15:26 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:15:26 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:15:26 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:15:26 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:15:26 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2228 ms
+十二月 16, 2016 8:15:38 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:15:38 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:16:04 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.checkMember(MemberAction.java:79)
+	at MemberAction.execute(MemberAction.java:36)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 8:16:04 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.checkMember(MemberAction.java:79)
+	at MemberAction.execute(MemberAction.java:36)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 8:17:02 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:17:02 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:17:03 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:17:03 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:17:03 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:17:07 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:17:07 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:17:08 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:17:08 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:17:08 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:17:08 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1572 ms
+十二月 16, 2016 8:17:08 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:17:09 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:17:09 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:17:09 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:17:10 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:17:10 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:17:10 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:17:10 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:17:11 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:17:11 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:17:11 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:17:11 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2384 ms
+十二月 16, 2016 8:17:21 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:17:21 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:17:31 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.checkMember(MemberAction.java:79)
+	at MemberAction.execute(MemberAction.java:36)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 8:17:31 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.checkMember(MemberAction.java:79)
+	at MemberAction.execute(MemberAction.java:36)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 8:20:43 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:20:43 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:20:44 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:20:44 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:20:44 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:21:01 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:21:01 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:21:02 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:21:03 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:21:03 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:21:03 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1565 ms
+十二月 16, 2016 8:21:03 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:21:03 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:21:03 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:21:04 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:21:04 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:21:04 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:21:04 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:21:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:21:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:21:05 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:21:05 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:21:05 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2503 ms
+十二月 16, 2016 8:21:14 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:21:14 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:22:49 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookManagementAction
+十二月 16, 2016 8:24:39 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: OrderFormAction
+十二月 16, 2016 8:35:37 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:35:37 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:35:38 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:35:38 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:35:38 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:36:21 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 8:36:21 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 8:36:22 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 8:36:23 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:36:23 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:36:23 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1542 ms
+十二月 16, 2016 8:36:23 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 8:36:23 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 8:36:23 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 8:36:23 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 8:36:24 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 8:36:24 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 8:36:24 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 8:36:25 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 8:36:25 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 8:36:25 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:36:25 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:36:25 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2513 ms
+十二月 16, 2016 8:36:42 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 8:36:42 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 8:37:17 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: OrderFormAction
+十二月 16, 2016 8:48:40 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:48:40 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 8:48:41 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 8:48:41 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 8:48:41 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:18:24 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 9:18:24 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 9:18:25 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 9:18:26 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:18:26 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:18:26 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1734 ms
+十二月 16, 2016 9:18:26 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 9:18:26 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 9:18:26 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 9:18:26 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 9:18:27 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 9:18:27 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 9:18:27 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 9:18:28 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 9:18:28 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 9:18:28 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:18:28 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:18:28 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2664 ms
+十二月 16, 2016 9:18:54 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 9:18:54 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 9:21:47 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:21:47 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:21:48 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 9:21:48 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:21:48 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:42:20 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 9:42:20 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 9:42:20 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 9:42:21 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:42:21 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:42:21 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1578 ms
+十二月 16, 2016 9:42:21 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 9:42:21 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 9:42:21 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 9:42:22 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 9:42:22 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 9:42:22 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 9:42:23 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 9:42:23 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 9:42:23 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 9:42:24 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:42:24 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:42:24 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2823 ms
+十二月 16, 2016 9:42:39 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 9:42:39 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 9:42:44 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookManagementAction
+十二月 16, 2016 9:43:23 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookAction
+十二月 16, 2016 9:44:35 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:44:35 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:44:40 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:44:40 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:44:45 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:44:45 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:45:32 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:45:32 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:47:03 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:47:03 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:31)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:49:41 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:49:41 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:49:42 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 9:49:42 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:49:42 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:50:11 上午 org.apache.catalina.startup.Catalina stopServer
+严重: Catalina.stop: 
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:422)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:338)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:416)
+
+十二月 16, 2016 9:50:13 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 9:50:13 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 9:50:14 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 9:50:14 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:50:14 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:50:14 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1624 ms
+十二月 16, 2016 9:50:14 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 9:50:14 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 9:50:14 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 9:50:15 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 9:50:15 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 9:50:15 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 9:50:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 9:50:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 9:50:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 9:50:16 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:50:16 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:50:16 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2198 ms
+十二月 16, 2016 9:50:25 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 9:50:25 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 9:50:26 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:34)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:50:26 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NullPointerException
+	at MemberAction.execute(MemberAction.java:34)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 9:51:27 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:51:27 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:51:28 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 9:51:28 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:51:28 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:51:50 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 9:51:50 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 9:51:51 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 9:51:51 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:51:51 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:51:51 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1504 ms
+十二月 16, 2016 9:51:51 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 9:51:51 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 9:51:51 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 9:51:52 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 9:51:52 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 9:51:53 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 9:51:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 9:51:53 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 9:51:54 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 9:51:54 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:51:54 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:51:54 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2450 ms
+十二月 16, 2016 9:52:11 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 9:52:11 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 9:52:37 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:52:37 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:52:38 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 9:52:38 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:52:38 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:57:31 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 9:57:31 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 9:57:32 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 9:57:33 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:57:33 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:57:33 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1574 ms
+十二月 16, 2016 9:57:33 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 9:57:33 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 9:57:33 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 9:57:33 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 9:57:34 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 9:57:34 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 9:57:34 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 9:57:34 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 9:57:35 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 9:57:35 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 9:57:35 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 9:57:35 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2273 ms
+十二月 16, 2016 9:58:08 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 9:58:08 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 9:58:42 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: OrderFormAction
+十二月 16, 2016 9:59:08 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookAction
+十二月 16, 2016 10:01:09 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookManagementAction
+十二月 16, 2016 10:04:22 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 10:04:22 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 10:04:23 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 10:04:23 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 10:04:23 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 10:59:52 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: Loaded APR based Apache Tomcat Native library 1.2.10 using APR version 1.5.2.
+十二月 16, 2016 10:59:52 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十二月 16, 2016 10:59:53 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized with version OpenSSL 1.0.2j  26 Sep 2016
+十二月 16, 2016 10:59:53 上午 org.apache.coyote.http11.Http11AprProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 10:59:53 上午 org.apache.coyote.ajp.AjpAprProtocol init
+信息: Initializing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 10:59:53 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1525 ms
+十二月 16, 2016 10:59:53 上午 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+十二月 16, 2016 10:59:53 上午 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/6.0.48
+十二月 16, 2016 10:59:53 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor host-manager.xml
+十二月 16, 2016 10:59:54 上午 org.apache.catalina.startup.HostConfig deployDescriptor
+信息: Deploying configuration descriptor manager.xml
+十二月 16, 2016 10:59:54 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory BookStore
+十二月 16, 2016 10:59:54 上午 org.apache.struts.action.ActionServlet initChain
+信息: Loading chain catalog from jar:file:/C:/apache-tomcat-6.0.48/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+十二月 16, 2016 10:59:55 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory docs
+十二月 16, 2016 10:59:55 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory examples
+十二月 16, 2016 10:59:55 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory ROOT
+十二月 16, 2016 10:59:56 上午 org.apache.coyote.http11.Http11AprProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 10:59:56 上午 org.apache.coyote.ajp.AjpAprProtocol start
+信息: Starting Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 10:59:56 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2609 ms
+十二月 16, 2016 11:00:13 上午 org.apache.struts.chain.ComposableRequestProcessor init
+信息: Initializing composable request processor for module prefix ''
+十二月 16, 2016 11:00:13 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: MemberAction
+十二月 16, 2016 11:08:14 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: OrderFormAction
+十二月 16, 2016 11:08:14 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NumberFormatException: For input string: "9787506365437"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at OrderFormAction.insertOrder(OrderFormAction.java:68)
+	at OrderFormAction.execute(OrderFormAction.java:40)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 11:08:14 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NumberFormatException: For input string: "9787506365437"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at OrderFormAction.insertOrder(OrderFormAction.java:68)
+	at OrderFormAction.execute(OrderFormAction.java:40)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 11:08:19 上午 org.apache.struts.chain.commands.AbstractExceptionHandler execute
+警告: Unhandled exception
+java.lang.NumberFormatException: For input string: "9787506365437"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at OrderFormAction.insertOrder(OrderFormAction.java:68)
+	at OrderFormAction.execute(OrderFormAction.java:40)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 11:08:19 上午 org.apache.struts.chain.commands.ExceptionCatcher postprocess
+警告: Exception from exceptionCommand 'servlet-exception'
+java.lang.NumberFormatException: For input string: "9787506365437"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at OrderFormAction.insertOrder(OrderFormAction.java:68)
+	at OrderFormAction.execute(OrderFormAction.java:40)
+	at org.apache.struts.chain.commands.servlet.ExecuteAction.execute(ExecuteAction.java:58)
+	at org.apache.struts.chain.commands.AbstractExecuteAction.execute(AbstractExecuteAction.java:67)
+	at org.apache.struts.chain.commands.ActionCommandBase.execute(ActionCommandBase.java:51)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.commons.chain.generic.LookupCommand.execute(LookupCommand.java:305)
+	at org.apache.commons.chain.impl.ChainBase.execute(ChainBase.java:191)
+	at org.apache.struts.chain.ComposableRequestProcessor.process(ComposableRequestProcessor.java:283)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11AprProcessor.process(Http11AprProcessor.java:876)
+	at org.apache.coyote.http11.Http11AprProtocol$Http11ConnectionHandler.process(Http11AprProtocol.java:612)
+	at org.apache.tomcat.util.net.AprEndpoint$Worker.run(AprEndpoint.java:1777)
+	at java.lang.Thread.run(Thread.java:745)
+
+十二月 16, 2016 11:09:01 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookAction
+十二月 16, 2016 11:10:43 上午 org.apache.struts.chain.commands.servlet.CreateAction createAction
+信息: Initialize action of type: BookManagementAction
+十二月 16, 2016 11:36:08 上午 org.apache.coyote.http11.Http11AprProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 11:36:08 上午 org.apache.coyote.ajp.AjpAprProtocol pause
+信息: Pausing Coyote AJP/1.3 on ajp-8009
+十二月 16, 2016 11:36:09 上午 org.apache.catalina.core.StandardService stop
+信息: Stopping service Catalina
+十二月 16, 2016 11:36:09 上午 org.apache.coyote.http11.Http11AprProtocol destroy
+信息: Stopping Coyote HTTP/1.1 on http-8080
+十二月 16, 2016 11:36:09 上午 org.apache.coyote.ajp.AjpAprProtocol destroy
+信息: Stopping Coyote AJP/1.3 on ajp-8009

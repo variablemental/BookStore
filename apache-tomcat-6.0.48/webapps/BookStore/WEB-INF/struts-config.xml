@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" "http://struts.apache.org/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+    <form-beans>
+        <form-bean name="bookForm" type="BookForm" />
+        <form-bean name="memberForm" type="MemberForm"/>
+        <form-bean name="orderForm" type="OrderForm"/>
+    </form-beans>
+    <action-mappings type="org.apache.struts.action.ActionMapping">
+    <!--1.注:path 的作用?  2.在登录界面添加
+    <form name="form" method="post" action="memberAction.do?action=1">-->
+    <action name="memberForm" path="/memberaction" scope="request" type="MemberAction">
+        <forward name="checkMember" path="/origin.jsp" />
+        <forward name="register" path="/register.jsp"/>
+		<forward name="admin" path="/Main.jsp"/>
+        <forward name="showMember" path="/showMember.jsp"/>
+        <forward name="success"   path="/success.jsp"/>
+        <forward name="fail"   path="/fail.jsp"/>
+    </action>
+
+
+    <action name="bookForm" path="/bookaction" scope="request" type="BookAction">
+    	<forward name="SHOW_JSP" path="/Main.jsp"/>
+		<forward name="book_result" path="/showBook.jsp"/>
+        <forward name="success"   path="/success.jsp"/>
+         <forward name="fail"   path="/fail.jsp"/>
+    </action>
+    <action name="bookForm" path="/bookmanagementaction" scope="request" type="BookManagementAction">
+    	<forward name="insert_book" path="/Main.jsp"/>
+    	<forward name="delete_book" path="/Main.jsp"/>
+        <forward name="book_result" path="/showBook.jsp"/>
+        <forward name="success"   path="/success.jsp"/>
+         <forward name="fail"   path="/fail.jsp"/>
+	</action>
+    <action name="orderForm" path="/orderformaction" scope="request" type="OrderFormAction">
+        <forward name="show_form" path="/showForm.jsp"/>
+        <forward name="success"   path="/success.jsp"/>
+        <forward name="fail"   path="/fail.jsp"/>
+    </action>
+    
+		 
+    </action-mappings>
+</struts-config>
